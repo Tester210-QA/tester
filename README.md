@@ -1,2 +1,3 @@
 # tester
-This is my first project for learning git 
+This is my first project for learning git.
+Author-Abdul
